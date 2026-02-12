@@ -1,2 +1,3 @@
 # tsef-drone-analysis-project
-Tidewater Science and Engineering Fair 2026: Exploring Performance Patterns in Consumer Drone Designs Using Machine Learning
+ClusterFlight: Clustering and Prediction of Consumer Drone Performance with Unsupervised Machine Learning
+Tidewater Science and Engineering Fair 2026
